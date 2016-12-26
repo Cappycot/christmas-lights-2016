@@ -1,0 +1,6 @@
+Compile:tso-wiw-map.txt
+LightMap:tso-wiw.txt
+Music:Trans-Siberian Orchestra - Wizards In Winter (Instrumental).mp3
+Title:Trans-Siberian Orchestra - Wizards In Winter (Instrumental)
+
+Compiled
