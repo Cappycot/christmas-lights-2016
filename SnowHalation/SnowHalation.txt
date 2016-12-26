@@ -1,0 +1,7 @@
+Compile:SnowHalationMap.txt
+Compile:SnowHalationLyrics.txt
+LightMap:SnowHalationLights.txt
+Music:μs - Snow halation.mp3
+Title:μ's - Snow halation
+
+Compiled
