@@ -5,7 +5,7 @@ This was a small project to create an Arduino controlled light show on a large C
 [![ScreenShot](http://img.youtube.com/vi/_yvnFnd9enA/0.jpg)](https://youtu.be/_yvnFnd9enA)
 
 The music syncing process took several stages:
-1. Determine the BPM of the music .mp3 file.
-2. Create a txt file denoting times and beats for light start times and durations.
-3. Run a compiler script to turn the lightmap into exact time in seconds, using 0s and 1s for lights turning on and off.
-4. Use the final runtime script to read the compiled txt and send strings to the Arduino.
+1. Determine the BPM of the music .mp3 file.<br>
+2. Create a txt file denoting times and beats for light start times and durations.<br>
+3. Run a compiler script to turn the lightmap into exact time in seconds, using 0s and 1s for lights turning on and off.<br>
+4. Use the final runtime script to read the compiled txt and send strings to the Arduino.<br>
